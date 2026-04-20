@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-## 🌐 My socials
+## 💬 My Socials
 <a href="https://vk.com/diiiiiiiiiiimka">
   <img src="https://github.com/Kotop3ska/Kotop3ska/blob/main/vk.png" alt="VK Profile" height="30"/>
 </a>
