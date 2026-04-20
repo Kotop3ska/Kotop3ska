@@ -26,3 +26,4 @@
 <img src="https://github.com/Kotop3ska/Kotop3ska/blob/main/lang.png" alt="Lang" height="50"/>
 
 ### Tools
+<img src="https://github.com/Kotop3ska/Kotop3ska/blob/main/tools.png" alt="Tools" height="115"/>
