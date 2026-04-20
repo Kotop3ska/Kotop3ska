@@ -21,3 +21,8 @@
 
 
 ## 💻 Tech Stack
+
+### Languages
+<img src="https://github.com/Kotop3ska/Kotop3ska/blob/main/lang.png" alt="Lang" height="50"/>
+
+### Tools
