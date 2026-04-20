@@ -27,3 +27,8 @@
 
 ### Tools
 <img src="https://github.com/Kotop3ska/Kotop3ska/blob/main/tools.png" alt="Tools" height="115"/>
+
+## ✍️ My Project
+<a href="https://github.com/Kotop3ska/TicTacToe">
+  <img src="https://github.com/Kotop3ska/Kotop3ska/blob/main/appIconDark.png" alt="Inst Profile" height="200"/>
+</a>
