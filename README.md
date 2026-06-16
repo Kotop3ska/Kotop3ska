@@ -31,7 +31,5 @@
 ### Design
 <img src="https://github.com/Kotop3ska/Kotop3ska/blob/main/design.png" alt="Design" height="50"/>
 
-## ✍️ My Project
-<a href="https://github.com/Kotop3ska/TicTacToe">
-  <img src="https://github.com/Kotop3ska/Kotop3ska/blob/main/appIconDark.png" alt="Inst Profile" height="200"/>
-</a>
+## ✍🏻 My Projects
+👉🏻 [Projects](https://github.com/Kotop3ska/Kotop3ska/blob/main/PROJECTS.md)
