@@ -1,4 +1,4 @@
-# Infinity XO
+# [Infinity XO](https://github.com/Kotop3ska/TicTacToe)
 > *swift*
 
 Уникальная версия классических крестиков-ноликов с бесконечным игровым процессом.  
@@ -13,7 +13,7 @@ Old moves are automatically cleared, making a draw impossible.
 
 ---
 
-# MusicPlatform 
+# [MusicPlatform](https://github.com/Kotop3ska/MusicPlatform) 
 
 > *Java, PostgreSQL*
 
