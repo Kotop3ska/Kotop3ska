@@ -1,3 +1,16 @@
+# [Kriterika](https://github.com/Kotop3ska/Kriterika) 
+> Java, React, PostgreSQL
+
+Сервис для оценки фильмов по критериям с интеграцией Kinopoisk API
+
+Web service for rating films by multiple criteria with Kinopoisk API integration
+
+<a href="https://github.com/Kotop3ska/Kriterika">
+  <img src="https://github.com/Kotop3ska/Kotop3ska/blob/main/KriterikaIcon.png" alt="Inst Profile" height="200"/>
+</a>
+
+---
+
 # [Infinity XO](https://github.com/Kotop3ska/TicTacToe)
 > *swift*
 
